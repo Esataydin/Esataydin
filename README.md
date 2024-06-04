@@ -116,12 +116,14 @@
 
 ###
 
+<!-- Profile view counter
 <div align="center">
   <img src="https://profile-counter.glitch.me/Esataydin/count.svg?"  />
 </div>
+-->
 
 ###
-
+<!--
 <p align="center">Hello World!!</p>
-
+-->
 ###

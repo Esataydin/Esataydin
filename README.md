@@ -106,6 +106,9 @@
   <a href="https://stackoverflow.com/users/22399447/esat-aydin" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
+  <a href="https://www.kaggle.com/esataydin" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="35" alt="stackoverflow logo"  />
+  </a>
 </div>
 
 ###
